@@ -19,6 +19,9 @@ class ViewController: UIViewController {
         var llllll = "111111"
         var ttttttt = "222222"
         
+        // New Code
+        var ageee = 20
+        
     
     }
 

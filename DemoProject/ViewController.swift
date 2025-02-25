@@ -16,10 +16,18 @@ class ViewController: UIViewController {
         
         var name = "Sreekanth"
         
+        var llllll = "111111"
+        var ttttttt = "222222"
         
+
         var llllll = "5555555"
         
         
+
+        // New Code
+        var ageee = 20
+        
+    
     }
 
 

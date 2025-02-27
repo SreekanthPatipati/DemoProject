@@ -27,6 +27,7 @@ class ViewController: UIViewController {
         // New Code
         var ageee = 20
         var RamaRao = "RamaRao"
+        var SreekanthPathiapti = "Pathipati"
         
     
     }
